@@ -1,0 +1,2260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202604051937184KBLNL</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202604051937189VBENB</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SA. Reinterpretando las Meninas</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>El cartel</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>María Herrera García</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>A partir del vídeo &apos;Velaske, yo soi guapa?&apos;, que reinterpreta Las Meninas con un lenguaje actual, se propone un proyecto donde el alumnado analizará cómo el arte puede transformarse en comunicación contemporánea.
+El reto final será diseñar un cartel para el baile de fin de curso inspirado en la obra de Velázquez, aplicando recursos visuales del arte y del diseño gráfico.
+</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1775410597304</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mnm1mob9-ppd6kat0r</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. PRESENTACIÓN Y DESCRIPCIÓN DEL PROYECTO</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. PRESENTACIÓN Y DESCRIPCIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. PRESENTACIÓN Y DESCRIPCIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnm1mob9-ppd6kat0r</odePageId>
+      <odeBlockId>block-1775403761154-aj0ve763q</odeBlockId>
+      <blockName>Descripción</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnm1mob9-ppd6kat0r</odePageId>
+          <odeBlockId>block-1775403761154-aj0ve763q</odeBlockId>
+          <odeIdeviceId>idevice-1775403761154-kh8r3qgkt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La situación de aprendizaje propone acercar el patrimonio artístico al alumnado de <strong>3º de ESO</strong> mediante la reinterpretación contemporánea de Las Meninas, tomando como punto de partida un vídeo actual para analizar cómo el arte puede transformarse en comunicación visual.</p>
+<p>A lo largo de siete sesiones, el alumnado explora la obra de Diego Velázquez y diseña un cartel para el baile de fin de curso utilizando herramientas digitales, integrando conocimientos sobre p<strong>atrimonio, técnicas audiovisuales y competencias creativas.</strong> La propuesta fomenta la conexión con referentes culturales y la expresión personal, aunque evidencia la necesidad de reforzar la competencia digital y la autonomía del alumnado para optimizar el desarrollo de la actividad.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775403761154-kh8r3qgkt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La situación de aprendizaje propone acercar el patrimonio artístico al alumnado de <strong>3º de ESO</strong> mediante la reinterpretación contemporánea de Las Meninas, tomando como punto de partida un vídeo actual para analizar cómo el arte puede transformarse en comunicación visual.</p>\n<p>A lo largo de siete sesiones, el alumnado explora la obra de Diego Velázquez y diseña un cartel para el baile de fin de curso utilizando herramientas digitales, integrando conocimientos sobre p<strong>atrimonio, técnicas audiovisuales y competencias creativas.</strong> La propuesta fomenta la conexión con referentes culturales y la expresión personal, aunque evidencia la necesidad de reforzar la competencia digital y la autonomía del alumnado para optimizar el desarrollo de la actividad.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnm1mobc-asql8m5lg</odePageId>
+  <odeParentPageId>page-mnm1mob9-ppd6kat0r</odeParentPageId>
+  <pageName>1.1. CENTRO DE INTERÉS</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.1. CENTRO DE INTERÉS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.1. CENTRO DE INTERÉS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1.1. CENTRO DE INTERÉS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnm1mobc-asql8m5lg</odePageId>
+      <odeBlockId>block-1775329027797-41x0vqe2d</odeBlockId>
+      <blockName>1. Centro de interés</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnm1mobc-asql8m5lg</odePageId>
+          <odeBlockId>block-1775329027797-41x0vqe2d</odeBlockId>
+          <odeIdeviceId>idevice-1775329027795-tfpqxrtlj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A partir del vídeo 'Velaske, yo soi guapa?', que reinterpreta Las Meninas con un lenguaje actual, se propone un proyecto donde el alumnado analizará cómo el arte puede transformarse en comunicación contemporánea.</p>
+<figure class="exe-figure exe-media license-standard-youtube" style="width: 560px;" id="fig_pjrsq8ctk"><iframe width="560" height="314" src="https://www.youtube.com/embed/Il6p2-40-F0?t=3s" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="author">PlayGround</span>. <span class="title"><em>Velaske, yo soi guapa? (Las Meninas Trap Mix)</em></span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>El reto final será diseñar un cartel para el baile de fin de curso inspirado en la obra de Velázquez, aplicando recursos visuales del arte y del diseño gráfico.</p>
+<figure class="exe-figure" style="width: 570px;"><img src="{{context_path}}/content/resources/Las_Meninas_01.jpg" title="Las Meninas" width="570" height="656" alt="" style="float: left;" />
+<figcaption class="figcaption"><span class="author">Diego Velázquez</span>. <a href="https://www.museodelprado.es/coleccion/obra-de-arte/las-meninas/9fdc7800-9ade-48b0-ab8b-edee94ea877f" class="title" target="_blank" rel="noopener"><em>Las Meninas</em></a> <span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775329027795-tfpqxrtlj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A partir del vídeo 'Velaske, yo soi guapa?', que reinterpreta Las Meninas con un lenguaje actual, se propone un proyecto donde el alumnado analizará cómo el arte puede transformarse en comunicación contemporánea.</p>\n<figure class=\"exe-figure exe-media license-standard-youtube\" style=\"width: 560px;\" id=\"fig_pjrsq8ctk\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/Il6p2-40-F0?t=3s\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">PlayGround</span>. <span class=\"title\"><em>Velaske, yo soi guapa? (Las Meninas Trap Mix)</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>El reto final será diseñar un cartel para el baile de fin de curso inspirado en la obra de Velázquez, aplicando recursos visuales del arte y del diseño gráfico.</p>\n<figure class=\"exe-figure\" style=\"width: 570px;\"><img src=\"{{context_path}}/content/resources/Las_Meninas_01.jpg\" title=\"Las Meninas\" width=\"570\" height=\"656\" alt=\"\" style=\"float: left;\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Diego Velázquez</span>. <a href=\"https://www.museodelprado.es/coleccion/obra-de-arte/las-meninas/9fdc7800-9ade-48b0-ab8b-edee94ea877f\" class=\"title\" target=\"_blank\" rel=\"noopener\"><em>Las Meninas</em></a> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnm1mobd-nw195idwi</odePageId>
+  <odeParentPageId>page-mnm1mob9-ppd6kat0r</odeParentPageId>
+  <pageName>1.2. NIVEL, MATERIA E IDIOMA</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.2. NIVEL, MATERIA E IDIOMA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.2. NIVEL, MATERIA E IDIOMA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1.2. NIVEL, MATERIA E IDIOMA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnm1mobd-nw195idwi</odePageId>
+      <odeBlockId>block-1775403944491-4nyx3uq8x</odeBlockId>
+      <blockName>¿Para quién?</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnm1mobd-nw195idwi</odePageId>
+          <odeBlockId>block-1775403944491-4nyx3uq8x</odeBlockId>
+          <odeIdeviceId>idevice-1775403944490-wfg9tq46o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta situación de aprendizaje está orientada para el alumnado de <strong>3 de la ESO de Educación Plástica Visual y Audiovisual.</strong> La situación de aprendizaje se llevará a cabo en español.</p>
+<p> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775403944490-wfg9tq46o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta situación de aprendizaje está orientada para el alumnado de <strong>3 de la ESO de Educación Plástica Visual y Audiovisual.</strong> La situación de aprendizaje se llevará a cabo en español.</p>\n<p> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnm1mobe-lx5edcigz</odePageId>
+  <odeParentPageId>page-mnm1mob9-ppd6kat0r</odeParentPageId>
+  <pageName>1.3. TEMPORALIZACIÓN</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.3. TEMPORALIZACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.3. TEMPORALIZACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1.3. TEMPORALIZACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnm1mobe-lx5edcigz</odePageId>
+      <odeBlockId>block-1775404353261-t4odkw9sm</odeBlockId>
+      <blockName>Temporalización</blockName>
+      <iconName>sport</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnm1mobe-lx5edcigz</odePageId>
+          <odeBlockId>block-1775404353261-t4odkw9sm</odeBlockId>
+          <odeIdeviceId>idevice-1775404353260-ius6kzfpf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><strong>1 sesión: </strong>Tarea 1: Visionado y análisis del vídeo “Velaske, yo soi guapa?” y de Las Meninas.</li>
+<li><strong>2 sesión:</strong> Tarea 2: Análisis guiado de elementos visuales del cartel (composición, tipografía, color).</li>
+<li><strong>3 sesión</strong>: Boceto previo del cartel inspirado en Las Meninas.</li>
+<li><strong>4, 5, 6 sesión:</strong> Creación del cartel digital reinterpretando la obra con GIMP.</li>
+<li><strong>7 sesión:</strong> Tarea 5: Presentación del cartel y valoración final.<br /> </li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775404353260-ius6kzfpf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong>1 sesión: </strong>Tarea 1: Visionado y análisis del vídeo “Velaske, yo soi guapa?” y de Las Meninas.</li>\n<li><strong>2 sesión:</strong> Tarea 2: Análisis guiado de elementos visuales del cartel (composición, tipografía, color).</li>\n<li><strong>3 sesión</strong>: Boceto previo del cartel inspirado en Las Meninas.</li>\n<li><strong>4, 5, 6 sesión:</strong> Creación del cartel digital reinterpretando la obra con GIMP.</li>\n<li><strong>7 sesión:</strong> Tarea 5: Presentación del cartel y valoración final.<br /> </li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnm1mobe-e1s07y5wt</odePageId>
+  <odeParentPageId>page-mnm1mob9-ppd6kat0r</odeParentPageId>
+  <pageName>1.4. QUÉ SE TRABAJA</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.4. QUÉ SE TRABAJA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.4. QUÉ SE TRABAJA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1.4. QUÉ SE TRABAJA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnm1mobe-e1s07y5wt</odePageId>
+      <odeBlockId>block-1775404492429-uug23j2jc</odeBlockId>
+      <blockName>Manos a la obra</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnm1mobe-e1s07y5wt</odePageId>
+          <odeBlockId>block-1775404492429-uug23j2jc</odeBlockId>
+          <odeIdeviceId>idevice-1775404492428-unx582645</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A través de las competencias y saberes a continuación descriteos, se busca abordar el <strong>patrimonio artístico de manera integrada con las técnicas fundamentales para la creación de producciones audiovisuales. </strong></p>
+<p>Para ello, se propone el diseño de un cartel inspirado en Las Meninas de Velázquez, considerada la obra más reinterpretada en la historia del arte mediante el empleo de la herramienta GIMP.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775404492428-unx582645","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A través de las competencias y saberes a continuación descriteos, se busca abordar el <strong>patrimonio artístico de manera integrada con las técnicas fundamentales para la creación de producciones audiovisuales. </strong></p>\n<p>Para ello, se propone el diseño de un cartel inspirado en Las Meninas de Velázquez, considerada la obra más reinterpretada en la historia del arte mediante el empleo de la herramienta GIMP.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnm1mobe-e1s07y5wt</odePageId>
+      <odeBlockId>block-1775408193410-ltgr0lwkr</odeBlockId>
+      <blockName>Las Meninas el cuadro mas versionado de la hisoria</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnm1mobe-e1s07y5wt</odePageId>
+          <odeBlockId>block-1775408193410-ltgr0lwkr</odeBlockId>
+          <odeIdeviceId>idevice-1775408193409-9xms955sg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Desde fotógrafos hasta dibujantes de todo el mundo, nadie ha podido resistirse al magnetismo de Las Meninas. El cuadro de Velázquez ha inspirado tantas versiones originales que muchos artistas han decidido plasmar su propio sello personal sobre este clásico, creando obras únicas y llenas de personalidad. Puedes descubrir nuestra selección de versiones favoritas en este enlace:</p>
+<p><a href="https://madridpourvous.com/es/las-meninas-velazquez-versiones/" title="Las locas versiones de «Las Meninas» de Velázquez">https://madridpourvous.com/es/las-meninas-velazquez-versiones/</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775408193409-9xms955sg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Desde fotógrafos hasta dibujantes de todo el mundo, nadie ha podido resistirse al magnetismo de Las Meninas. El cuadro de Velázquez ha inspirado tantas versiones originales que muchos artistas han decidido plasmar su propio sello personal sobre este clásico, creando obras únicas y llenas de personalidad. Puedes descubrir nuestra selección de versiones favoritas en este enlace:</p>\n<p><a href=\"https://madridpourvous.com/es/las-meninas-velazquez-versiones/\" title=\"Las locas versiones de «Las Meninas» de Velázquez\">https://madridpourvous.com/es/las-meninas-velazquez-versiones/</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnm1mobf-nsemt2n4s</odePageId>
+  <odeParentPageId>page-mnm1mobe-e1s07y5wt</odeParentPageId>
+  <pageName>SABERES</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SABERES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SABERES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnm1mobf-nsemt2n4s</odePageId>
+      <odeBlockId>block-1775404928301-4kt5iqd65</odeBlockId>
+      <blockName>Saberes</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnm1mobf-nsemt2n4s</odePageId>
+          <odeBlockId>block-1775404928301-4kt5iqd65</odeBlockId>
+          <odeIdeviceId>idevice-1775404928300-rnqqo2ue9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>EPV.3.A.2</strong>. El patrimonio cultural y artístico en relación con su contexto histórico y natural, conocimiento, estudio y valoración de las responsabilidades que supone su conservación, sostenibilidad y mejora. El patrimonio arquitectónico.</p>
+<p><strong>EPV 3.D.2</strong>. Técnicas básicas para la realización de producciones audiovisuales sencillas, de forma individual o en grupo. Experimentación en entornos virtuales de aprendizaje de proyectos de vídeo – arte</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775404928300-rnqqo2ue9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>EPV.3.A.2</strong>. El patrimonio cultural y artístico en relación con su contexto histórico y natural, conocimiento, estudio y valoración de las responsabilidades que supone su conservación, sostenibilidad y mejora. El patrimonio arquitectónico.</p>\n<p><strong>EPV 3.D.2</strong>. Técnicas básicas para la realización de producciones audiovisuales sencillas, de forma individual o en grupo. Experimentación en entornos virtuales de aprendizaje de proyectos de vídeo – arte</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnm1mobf-k6n6e85wa</odePageId>
+  <odeParentPageId>page-mnm1mobe-e1s07y5wt</odeParentPageId>
+  <pageName>COMPETENCIAS</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>COMPETENCIAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>COMPETENCIAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnm1mobf-k6n6e85wa</odePageId>
+      <odeBlockId>block-1775404866261-48rgc54ny</odeBlockId>
+      <blockName>Competencias</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnm1mobf-k6n6e85wa</odePageId>
+          <odeBlockId>block-1775404866261-48rgc54ny</odeBlockId>
+          <odeIdeviceId>idevice-1775404866260-0mi09uwqm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>EPV.3.6. </strong>Apropiarse de las referencias culturales y artísticas del entorno, identificando sus singularidades, para enriquecer las creaciones propias y desarrollar la identidad personal, cultural y social.</p>
+<p><strong>EPV.3.5. </strong>Realizar producciones artísticas individuales o colectivas con creatividad e imaginación, seleccionando y aplicando herramientas, técnicas y soportes en función de la intencionalidad, para expresar la visión del mundo, las emociones y los sentimientos propios, así como para mejorar la capacidad de comunicación y desarrollar la reflexión crítica y la autoconfianza.</p>
+<p><strong>EPV.3.8. </strong>Compartir producciones y manifestaciones artísticas, adaptando el proyecto a la intención y a las características del público destinatario, para valorar distintas oportunidades de desarrollo personal.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775404866260-0mi09uwqm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>EPV.3.6. </strong>Apropiarse de las referencias culturales y artísticas del entorno, identificando sus singularidades, para enriquecer las creaciones propias y desarrollar la identidad personal, cultural y social.</p>\n<p><strong>EPV.3.5. </strong>Realizar producciones artísticas individuales o colectivas con creatividad e imaginación, seleccionando y aplicando herramientas, técnicas y soportes en función de la intencionalidad, para expresar la visión del mundo, las emociones y los sentimientos propios, así como para mejorar la capacidad de comunicación y desarrollar la reflexión crítica y la autoconfianza.</p>\n<p><strong>EPV.3.8. </strong>Compartir producciones y manifestaciones artísticas, adaptando el proyecto a la intención y a las características del público destinatario, para valorar distintas oportunidades de desarrollo personal.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnm1mobf-o47diwbsc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. PROTECCIÓN DE DATOS PERSONALES</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. PROTECCIÓN DE DATOS PERSONALES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. PROTECCIÓN DE DATOS PERSONALES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnm1mobf-o47diwbsc</odePageId>
+      <odeBlockId>block-1775405174517-8rnt4dsk2</odeBlockId>
+      <blockName>Trabaja de forma segura</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnm1mobf-o47diwbsc</odePageId>
+          <odeBlockId>block-1775405174517-8rnt4dsk2</odeBlockId>
+          <odeIdeviceId>idevice-1775405174516-sun7n2omn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación, se muestra una infografía con recomendaciones para el alumnado, con el fin de que se sienta seguro a la hora de realizar sus trabajos digitales o expresarse a través de su identidad digital.</p>
+<figure class="exe-figure position-center" style="width: 877px;"><img src="{{context_path}}/content/resources/Ilustración.jpg" width="877" height="1170" alt="" />
+<figcaption class="figcaption"><span class="author">María Herrera García</span>. <span class="title"><em>Trabaja de forma segura en internet</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775405174516-sun7n2omn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación, se muestra una infografía con recomendaciones para el alumnado, con el fin de que se sienta seguro a la hora de realizar sus trabajos digitales o expresarse a través de su identidad digital.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 877px;\"><img src=\"{{context_path}}/content/resources/Ilustración.jpg\" width=\"877\" height=\"1170\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">María Herrera García</span>. <span class=\"title\"><em>Trabaja de forma segura en internet</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnm1mobf-rin0gpz2h</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. DESCRIPCIÓN DEL PRODUCTO FINAL</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. DESCRIPCIÓN DEL PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. DESCRIPCIÓN DEL PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnm1mobf-rin0gpz2h</odePageId>
+      <odeBlockId>block-1775405687294-uu5fc5a4x</odeBlockId>
+      <blockName>El producto final</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnm1mobf-rin0gpz2h</odePageId>
+          <odeBlockId>block-1775405687294-uu5fc5a4x</odeBlockId>
+          <odeIdeviceId>idevice-1775405687294-c2mlj3gzl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El producto final de esta situación de aprendizaje consiste en el diseño de un<strong> cartel digital original para el baile de fin de curso</strong>, inspirado en la reinterpretación de Las Meninas de Diego Velázquez. El alumnado debe crear una composición visual que adapte elementos formales, compositivos o conceptuales de la obra a un lenguaje contemporáneo y comunicativo, integrando imagen y texto de forma coherente (título del evento, fecha, lugar, etc.). El cartel se elabora mediante herramientas de edición digital como GIMP, aplicando recursos propios del diseño gráfico (tipografía, color, jerarquía visual), y debe estar pensado para un público concreto —la comunidad educativa—, transmitiendo de manera clara y creativa la información del evento. Además, el resultado refleja tanto la capacidad de reinterpretación artística como el desarrollo de la competencia digital y comunicativa del alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775405687294-c2mlj3gzl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El producto final de esta situación de aprendizaje consiste en el diseño de un<strong> cartel digital original para el baile de fin de curso</strong>, inspirado en la reinterpretación de Las Meninas de Diego Velázquez. El alumnado debe crear una composición visual que adapte elementos formales, compositivos o conceptuales de la obra a un lenguaje contemporáneo y comunicativo, integrando imagen y texto de forma coherente (título del evento, fecha, lugar, etc.). El cartel se elabora mediante herramientas de edición digital como GIMP, aplicando recursos propios del diseño gráfico (tipografía, color, jerarquía visual), y debe estar pensado para un público concreto —la comunidad educativa—, transmitiendo de manera clara y creativa la información del evento. Además, el resultado refleja tanto la capacidad de reinterpretación artística como el desarrollo de la competencia digital y comunicativa del alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnm1mobg-qi10l05ti</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. HERRAMIENTAS DE CURACIÓN DE CONTENIDO</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. HERRAMIENTAS DE CURACIÓN DE CONTENIDO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. HERRAMIENTAS DE CURACIÓN DE CONTENIDO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnm1mobg-qi10l05ti</odePageId>
+      <odeBlockId>block-1775405817545-esg6bht1o</odeBlockId>
+      <blockName>Curación de contenidos</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnm1mobg-qi10l05ti</odePageId>
+          <odeBlockId>block-1775405817545-esg6bht1o</odeBlockId>
+          <odeIdeviceId>idevice-1775405817543-l3tmnbalf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En mi práctica como profesora de Educación Plástica, Visual y Audiovisual, me gustaría incorporar la curación de contenidos como estrategia para apoyar el desarrollo de la situación de aprendizaje basada en la reinterpretación de Las Meninas, utilizando GIMP como herramienta principal de diseño. Los aspectosa tener en cuenta son los siguientes:</p>
+<ul>
+<li><strong>Necesidades del alumnado: </strong>El alumnado necesita comprender cómo adaptar una obra clásica a un lenguaje actual y, además, adquirir destrezas básicas en el uso de GIMP. Para ello, requiere tutoriales claros, ejemplos visuales y recursos que faciliten tanto la parte técnica como creativa.</li>
+<li><strong>Selección y filtrado de la información: </strong>me gustaría seleccionar recursos útiles y accesibles, como tutoriales básicos de GIMP, ejemplos de carteles, reinterpretaciones artísticas y contenidos sobre composición, color y tipografía, evitando la sobrecarga informativa.</li>
+<li><strong>Organización de la información:</strong> organizaría los contenidos en categorías como: uso de GIMP, inspiración visual, teoría artística y recursos gráficos, utilizando herramientas como Padlet para facilitar su acceso.</li>
+<li><strong>Compartir el contenido: </strong>los materiales se compartirían mediante enlaces públicos o el aula virtual, permitiendo al alumnado consultarlos durante todo el proceso de creación del cartel.</li>
+<li><strong>Evaluación de resultados: </strong>me gustaría recoger feedback del alumnado para mejorar la selección de recursos y favorecer su autonomía en la resolución de problemas técnicos.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775405817543-l3tmnbalf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En mi práctica como profesora de Educación Plástica, Visual y Audiovisual, me gustaría incorporar la curación de contenidos como estrategia para apoyar el desarrollo de la situación de aprendizaje basada en la reinterpretación de Las Meninas, utilizando GIMP como herramienta principal de diseño. Los aspectosa tener en cuenta son los siguientes:</p>\n<ul>\n<li><strong>Necesidades del alumnado: </strong>El alumnado necesita comprender cómo adaptar una obra clásica a un lenguaje actual y, además, adquirir destrezas básicas en el uso de GIMP. Para ello, requiere tutoriales claros, ejemplos visuales y recursos que faciliten tanto la parte técnica como creativa.</li>\n<li><strong>Selección y filtrado de la información: </strong>me gustaría seleccionar recursos útiles y accesibles, como tutoriales básicos de GIMP, ejemplos de carteles, reinterpretaciones artísticas y contenidos sobre composición, color y tipografía, evitando la sobrecarga informativa.</li>\n<li><strong>Organización de la información:</strong> organizaría los contenidos en categorías como: uso de GIMP, inspiración visual, teoría artística y recursos gráficos, utilizando herramientas como Padlet para facilitar su acceso.</li>\n<li><strong>Compartir el contenido: </strong>los materiales se compartirían mediante enlaces públicos o el aula virtual, permitiendo al alumnado consultarlos durante todo el proceso de creación del cartel.</li>\n<li><strong>Evaluación de resultados: </strong>me gustaría recoger feedback del alumnado para mejorar la selección de recursos y favorecer su autonomía en la resolución de problemas técnicos.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnm1mobg-7zgmn32pn</odePageId>
+  <odeParentPageId>page-mnm1mobg-qi10l05ti</odeParentPageId>
+  <pageName>4.1. Curación para el alumnado (uso de GIMP)</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.1. Curación para el alumnado (uso de GIMP)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.1. Curación para el alumnado (uso de GIMP)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4.1. Curación para el alumnado (uso de GIMP)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnm1mobg-7zgmn32pn</odePageId>
+      <odeBlockId>block-1775406239895-32svan2qu</odeBlockId>
+      <blockName>Herramienta Padlet</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnm1mobg-7zgmn32pn</odePageId>
+          <odeBlockId>block-1775406239895-32svan2qu</odeBlockId>
+          <odeIdeviceId>idevice-1775406239894-okafljc31</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Su finalidad es guiar al alumnado en el uso de GIMP y en el desarrollo del cartel, facilitando la resolución de problemas técnicos. Incluye:</p>
+<ul>
+<li>Tutoriales básicos de GIMP (herramientas, capas, texto)</li>
+<li>Ejemplos de carteles y diseño gráfico</li>
+<li>Referentes visuales para reinterpretación artística</li>
+<li>Recursos sobre composición, color y tipografía</li>
+<li>Bancos de imágenes libres</li>
+</ul>
+<p>Su finalidad es guiar al alumnado en el uso de GIMP y en el desarrollo del cartel, facilitando la resolución de problemas técnicos.<br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775406239894-okafljc31","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Su finalidad es guiar al alumnado en el uso de GIMP y en el desarrollo del cartel, facilitando la resolución de problemas técnicos. Incluye:</p>\n<ul>\n<li>Tutoriales básicos de GIMP (herramientas, capas, texto)</li>\n<li>Ejemplos de carteles y diseño gráfico</li>\n<li>Referentes visuales para reinterpretación artística</li>\n<li>Recursos sobre composición, color y tipografía</li>\n<li>Bancos de imágenes libres</li>\n</ul>\n<p>Su finalidad es guiar al alumnado en el uso de GIMP y en el desarrollo del cartel, facilitando la resolución de problemas técnicos.<br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnm1mobg-7zgmn32pn</odePageId>
+      <odeBlockId>block-1775406329903-gy5t4jdon</odeBlockId>
+      <blockName>Accede al recurso</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnm1mobg-7zgmn32pn</odePageId>
+          <odeBlockId>block-1775406329903-gy5t4jdon</odeBlockId>
+          <odeIdeviceId>idevice-1775406329903-2o5og2cth</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/mhergar003/alumnado-cvqs2xe2iehtmtia" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnm1mobg-z8tusa2ix</odePageId>
+  <odeParentPageId>page-mnm1mobg-qi10l05ti</odeParentPageId>
+  <pageName>4.2. Curación para docentes</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.2. Curación para docentes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.2. Curación para docentes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnm1mobg-z8tusa2ix</odePageId>
+      <odeBlockId>block-1775406365824-seoy2tx3s</odeBlockId>
+      <blockName>Herramienta: Symbaloo</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnm1mobg-z8tusa2ix</odePageId>
+          <odeBlockId>block-1775406365824-seoy2tx3s</odeBlockId>
+          <odeIdeviceId>idevice-1775406365823-zxtkv8yqh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Incluye:</p>
+<ul>
+<li>Herramientas de organización (Drive, Calendar)</li>
+<li>Apps de diseño (GIMP, Canva, Genially)</li>
+<li>Recursos de curación (Padlet, Diigo)</li>
+<li>Herramientas de almacenamiento y gestión</li>
+</ul>
+<p></p>
+<p><a href="https://www.symbaloo.com/shared/AAAABi9TkeYAA42ADtC8IQ==" title="">https://www.symbaloo.com/shared/AAAABi9TkeYAA42ADtC8IQ==</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775406365823-zxtkv8yqh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Incluye:</p>\n<ul>\n<li>Herramientas de organización (Drive, Calendar)</li>\n<li>Apps de diseño (GIMP, Canva, Genially)</li>\n<li>Recursos de curación (Padlet, Diigo)</li>\n<li>Herramientas de almacenamiento y gestión</li>\n</ul>\n<p></p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAABi9TkeYAA42ADtC8IQ==\" title=\"\">https://www.symbaloo.com/shared/AAAABi9TkeYAA42ADtC8IQ==</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnm1mobg-j4hr7wf55</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. LÍNEA TEMPORAL</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. LÍNEA TEMPORAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. LÍNEA TEMPORAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnm1mobg-j4hr7wf55</odePageId>
+      <odeBlockId>block-1775406724104-c8wdqsuea</odeBlockId>
+      <blockName>Línea temporal</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnm1mobg-j4hr7wf55</odePageId>
+          <odeBlockId>block-1775406724104-c8wdqsuea</odeBlockId>
+          <odeIdeviceId>idevice-1775406724103-f5cdp0fgm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1920px;"><img src="{{context_path}}/content/resources/LINEA TEMPORAL.jpg" width="1920" height="1047" alt="" />
+<figcaption class="figcaption"><span class="author">María Herrera García</span>. <span class="title"><em>Línea temporal</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775406724103-f5cdp0fgm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1920px;\"><img src=\"{{context_path}}/content/resources/LINEA TEMPORAL.jpg\" width=\"1920\" height=\"1047\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">María Herrera García</span>. <span class=\"title\"><em>Línea temporal</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnm1mobh-ll1ula27o</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. CRITERIOS DE EVALUACIÓN</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. CRITERIOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. CRITERIOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnm1mobh-ll1ula27o</odePageId>
+      <odeBlockId>block-1775408387572-gnrr5jgwe</odeBlockId>
+      <blockName>Tabla de criterios de evaluación</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnm1mobh-ll1ula27o</odePageId>
+          <odeBlockId>block-1775408387572-gnrr5jgwe</odeBlockId>
+          <odeIdeviceId>idevice-1775408387571-3lbn7iho3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100.036%; height: 745.501px;">
+<tbody>
+<tr style="height: 73.8281px;">
+<td style="width: 20.0361%; height: 73.8281px; text-align: left;"><strong>TAREA </strong></td>
+<td style="width: 36.2424%; height: 73.8281px; text-align: left;"><strong> CRITERIO DE EVALUACIÓN</strong><br /></td>
+<td style="width: 13.0283%; height: 73.8281px; text-align: left;"><strong>AGRUP.</strong></td>
+<td style="width: 13.3878%; height: 73.8281px; text-align: left;"><strong>TIEMPO </strong></td>
+<td style="width: 17.3039%; height: 73.8281px; text-align: left;"><strong>HERRAMIENTA </strong><br /></td>
+</tr>
+<tr style="height: 160.266px;">
+<td style="width: 20.0361%; height: 160.266px; text-align: left;"> Tarea 1: Visionado y análisis del vídeo “Velaske, yo soi guapa?” y de Las Meninas<br /></td>
+<td style="width: 36.2424%; height: 160.266px; text-align: justify;">EPV.3.8.1.Reconocer los diferentes usos y funciones de las producciones y manifestaciones artísticas, argumentando de forma individual o colectiva sus conclusiones acerca de las oportunidades que pueden generar, con una actitud abierta y con interés por conocer su importancia en la sociedad. <br /></td>
+<td style="width: 13.0283%; height: 160.266px; text-align: center;"> Grupo clase<br /></td>
+<td style="width: 13.3878%; height: 160.266px; text-align: center;">1 sesión</td>
+<td style="width: 17.3039%; height: 160.266px; text-align: center;"> YouTube / Pizarra digital<br /></td>
+</tr>
+<tr style="height: 181.875px;">
+<td style="width: 20.0361%; height: 181.875px; text-align: left;"> Tarea 2: Análisis guiado de elementos visuales del cartel (composición, tipografía, color)<br /></td>
+<td style="width: 36.2424%; height: 181.875px; text-align: justify;">
+<p>EPV.3.8.1.Reconocer los diferentes usos y funciones de las producciones y manifestaciones artísticas, argumentando de forma individual o colectiva sus conclusiones acerca de las oportunidades que pueden generar, con una actitud abierta y con interés por conocer su importancia en la sociedad. </p>
+</td>
+<td style="width: 13.0283%; height: 181.875px; text-align: center;">Parejas</td>
+<td style="width: 13.3878%; height: 181.875px; text-align: center;">1 sesión</td>
+<td style="width: 17.3039%; height: 181.875px; text-align: center;">Canva</td>
+</tr>
+<tr style="height: 117.047px;">
+<td style="width: 20.0361%; height: 117.047px; text-align: left;"> Tarea 3: Boceto previo del cartel inspirado en Las Meninas<br /></td>
+<td style="width: 36.2424%; height: 117.047px; text-align: justify;">EPV.3.6.3.Entender y concebir la historia del arte y la cultura, y también la propia producción artística, como un todo continuo e indesligable, en el cual las obras del pasado son la base sobre la que se construyen las creaciones del presente.<br /></td>
+<td style="width: 13.0283%; height: 117.047px; text-align: center;">Individual</td>
+<td style="width: 13.3878%; height: 117.047px; text-align: center;">1 sesión</td>
+<td style="width: 17.3039%; height: 117.047px; text-align: center;"> Papel / boceto manual<br /></td>
+</tr>
+<tr style="height: 117.047px;">
+<td style="width: 20.0361%; height: 117.047px; text-align: left;"> Tarea 4: Creación del cartel digital reinterpretando la obra<br /></td>
+<td style="width: 36.2424%; height: 117.047px; text-align: justify;">
+<p>EPV.3.5.3.Descubrir y seleccionar aquellos procedimientos y técnicas más idóneos en relación con los fines de presentación y representación perseguidos.</p>
+<p>EPV.3.6.3.Entender y concebir la historia del arte y la cultura, y también la propia producción artística, como un todo continuo e indesligable, en el cual las obras del pasado son la base sobre la que se construyen las creaciones del presente.<br /></p>
+<p>EPV.3.8.1.Reconocer los diferentes usos y funciones de las producciones y manifestaciones artísticas, argumentando de forma individual o colectiva sus conclusiones acerca de las oportunidades que pueden generar, con una actitud abierta y con interés por conocer su importancia en la sociedad. </p>
+</td>
+<td style="width: 13.0283%; height: 117.047px; text-align: center;">Individual</td>
+<td style="width: 13.3878%; height: 117.047px; text-align: center;">3 sesiones</td>
+<td style="width: 17.3039%; height: 117.047px; text-align: center;">GIMP</td>
+</tr>
+<tr style="height: 95.4375px;">
+<td style="width: 20.0361%; height: 95.4375px; text-align: left;"> Tarea 5: Presentación del cartel y valoración final<br /></td>
+<td style="width: 36.2424%; height: 95.4375px; text-align: justify;">EPV.3.8.3.Exponer los procesos de elaboración y el resultado final de producciones y manifestaciones artísticas, realizadas de forma individual o colectiva, reconociendo los errores, buscando las soluciones y las estrategias más adecuadas para mejorarlas, y valorando las oportunidades de desarrollo personal que ofrecen. <br /></td>
+<td style="width: 13.0283%; height: 95.4375px; text-align: center;">Individual</td>
+<td style="width: 13.3878%; height: 95.4375px; text-align: center;">1 sesión</td>
+<td style="width: 17.3039%; height: 95.4375px; text-align: center;"> Pizarra digital<br /></td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775408387571-3lbn7iho3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100.036%; height: 745.501px;\">\n<tbody>\n<tr style=\"height: 73.8281px;\">\n<td style=\"width: 20.0361%; height: 73.8281px; text-align: left;\"><strong>TAREA </strong></td>\n<td style=\"width: 36.2424%; height: 73.8281px; text-align: left;\"><strong> CRITERIO DE EVALUACIÓN</strong><br /></td>\n<td style=\"width: 13.0283%; height: 73.8281px; text-align: left;\"><strong>AGRUP.</strong></td>\n<td style=\"width: 13.3878%; height: 73.8281px; text-align: left;\"><strong>TIEMPO </strong></td>\n<td style=\"width: 17.3039%; height: 73.8281px; text-align: left;\"><strong>HERRAMIENTA </strong><br /></td>\n</tr>\n<tr style=\"height: 160.266px;\">\n<td style=\"width: 20.0361%; height: 160.266px; text-align: left;\"> Tarea 1: Visionado y análisis del vídeo “Velaske, yo soi guapa?” y de Las Meninas<br /></td>\n<td style=\"width: 36.2424%; height: 160.266px; text-align: justify;\">EPV.3.8.1.Reconocer los diferentes usos y funciones de las producciones y manifestaciones artísticas, argumentando de forma individual o colectiva sus conclusiones acerca de las oportunidades que pueden generar, con una actitud abierta y con interés por conocer su importancia en la sociedad. <br /></td>\n<td style=\"width: 13.0283%; height: 160.266px; text-align: center;\"> Grupo clase<br /></td>\n<td style=\"width: 13.3878%; height: 160.266px; text-align: center;\">1 sesión</td>\n<td style=\"width: 17.3039%; height: 160.266px; text-align: center;\"> YouTube / Pizarra digital<br /></td>\n</tr>\n<tr style=\"height: 181.875px;\">\n<td style=\"width: 20.0361%; height: 181.875px; text-align: left;\"> Tarea 2: Análisis guiado de elementos visuales del cartel (composición, tipografía, color)<br /></td>\n<td style=\"width: 36.2424%; height: 181.875px; text-align: justify;\">\n<p>EPV.3.8.1.Reconocer los diferentes usos y funciones de las producciones y manifestaciones artísticas, argumentando de forma individual o colectiva sus conclusiones acerca de las oportunidades que pueden generar, con una actitud abierta y con interés por conocer su importancia en la sociedad. </p>\n</td>\n<td style=\"width: 13.0283%; height: 181.875px; text-align: center;\">Parejas</td>\n<td style=\"width: 13.3878%; height: 181.875px; text-align: center;\">1 sesión</td>\n<td style=\"width: 17.3039%; height: 181.875px; text-align: center;\">Canva</td>\n</tr>\n<tr style=\"height: 117.047px;\">\n<td style=\"width: 20.0361%; height: 117.047px; text-align: left;\"> Tarea 3: Boceto previo del cartel inspirado en Las Meninas<br /></td>\n<td style=\"width: 36.2424%; height: 117.047px; text-align: justify;\">EPV.3.6.3.Entender y concebir la historia del arte y la cultura, y también la propia producción artística, como un todo continuo e indesligable, en el cual las obras del pasado son la base sobre la que se construyen las creaciones del presente.<br /></td>\n<td style=\"width: 13.0283%; height: 117.047px; text-align: center;\">Individual</td>\n<td style=\"width: 13.3878%; height: 117.047px; text-align: center;\">1 sesión</td>\n<td style=\"width: 17.3039%; height: 117.047px; text-align: center;\"> Papel / boceto manual<br /></td>\n</tr>\n<tr style=\"height: 117.047px;\">\n<td style=\"width: 20.0361%; height: 117.047px; text-align: left;\"> Tarea 4: Creación del cartel digital reinterpretando la obra<br /></td>\n<td style=\"width: 36.2424%; height: 117.047px; text-align: justify;\">\n<p>EPV.3.5.3.Descubrir y seleccionar aquellos procedimientos y técnicas más idóneos en relación con los fines de presentación y representación perseguidos.</p>\n<p>EPV.3.6.3.Entender y concebir la historia del arte y la cultura, y también la propia producción artística, como un todo continuo e indesligable, en el cual las obras del pasado son la base sobre la que se construyen las creaciones del presente.<br /></p>\n<p>EPV.3.8.1.Reconocer los diferentes usos y funciones de las producciones y manifestaciones artísticas, argumentando de forma individual o colectiva sus conclusiones acerca de las oportunidades que pueden generar, con una actitud abierta y con interés por conocer su importancia en la sociedad. </p>\n</td>\n<td style=\"width: 13.0283%; height: 117.047px; text-align: center;\">Individual</td>\n<td style=\"width: 13.3878%; height: 117.047px; text-align: center;\">3 sesiones</td>\n<td style=\"width: 17.3039%; height: 117.047px; text-align: center;\">GIMP</td>\n</tr>\n<tr style=\"height: 95.4375px;\">\n<td style=\"width: 20.0361%; height: 95.4375px; text-align: left;\"> Tarea 5: Presentación del cartel y valoración final<br /></td>\n<td style=\"width: 36.2424%; height: 95.4375px; text-align: justify;\">EPV.3.8.3.Exponer los procesos de elaboración y el resultado final de producciones y manifestaciones artísticas, realizadas de forma individual o colectiva, reconociendo los errores, buscando las soluciones y las estrategias más adecuadas para mejorarlas, y valorando las oportunidades de desarrollo personal que ofrecen. <br /></td>\n<td style=\"width: 13.0283%; height: 95.4375px; text-align: center;\">Individual</td>\n<td style=\"width: 13.3878%; height: 95.4375px; text-align: center;\">1 sesión</td>\n<td style=\"width: 17.3039%; height: 95.4375px; text-align: center;\"> Pizarra digital<br /></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnm1mobh-j4iyqcd7k</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. INSTRUMENTOS DE EVALUACIÓN</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. INSTRUMENTOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. INSTRUMENTOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnm1mobh-j4iyqcd7k</odePageId>
+      <odeBlockId>block-1775409329885-qd7ov4zkc</odeBlockId>
+      <blockName>Rúbrica, listas de cotejo y diana de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnm1mobh-j4iyqcd7k</odePageId>
+          <odeBlockId>block-1775409329885-qd7ov4zkc</odeBlockId>
+          <odeIdeviceId>idevice-1775409329884-13eofkzuv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En la presente Situación de aprendizaje se emplean 3 instrumentos de evaluación diferentes. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775409329884-13eofkzuv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En la presente Situación de aprendizaje se emplean 3 instrumentos de evaluación diferentes. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnm1mobh-8ir51z4xj</odePageId>
+  <odeParentPageId>page-mnm1mobh-j4iyqcd7k</odeParentPageId>
+  <pageName>7.1. Rúbrica de evaluación del cartel digital</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7.1. Rúbrica de evaluación del cartel digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7.1. Rúbrica de evaluación del cartel digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnm1mobh-8ir51z4xj</odePageId>
+      <odeBlockId>block-1775409101589-q44gxtqx5</odeBlockId>
+      <blockName>Rúbrica de evaluación del cartel digital</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnm1mobh-8ir51z4xj</odePageId>
+          <odeBlockId>block-1775409101589-q44gxtqx5</odeBlockId>
+          <odeIdeviceId>idevice-1775409101588-sjk58s72d</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>¿Qué evalúa?</strong> Este instrumento evalúa principalmente el producto final (cartel digital), en relación con el criterio:</p>
+<ul>
+<li>EPV.3.6.3: Se valora cómo el alumnado reinterpreta Las Meninas, entendiendo la obra como base para una creación actual.</li>
+<li>EPV.3.8.3: Al valorar la presentación final, la capacidad de explicar el proceso y mejorar el resultado.</li>
+</ul>
+<p><strong>Aspectos evaluados:</strong></p>
+<ul>
+<li>Creatividad y reinterpretación de la obra</li>
+<li>Uso del lenguaje visual (color, composición, tipografía)</li>
+<li>Uso de GIMP</li>
+<li>Claridad del mensaje</li>
+<li>Presentación del cartel</li>
+</ul>
+<p><strong>¿Cuándo se utiliza?</strong> En la Tarea 4 (creación del cartel) y Tarea 5 (presentación final).</p>
+<p><strong>¿Cómo se obtienen y analizan los datos?</strong> Se establecen niveles de logro que permiten comprobar si el alumnado ha alcanzado los criterios indicados. Sirve para detectar dificultades en la reinterpretación artística o en el uso de herramientas digitales.</p>
+<p><strong>Variables a tener en cuenta: </strong>Diferentes competencia digital, creatividad y ritmo de aprendizaje.</p>
+<figure class="exe-figure position-center" style="width: 547px;"><img src="{{context_path}}/content/resources/Rubrica.JPG" width="547" height="700" alt="" />
+<figcaption class="figcaption"><span class="author">María Herrera García</span>. <span class="title"><em>Rúbrica para la actividad 4, creación del cartel</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775409101588-sjk58s72d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¿Qué evalúa?</strong> Este instrumento evalúa principalmente el producto final (cartel digital), en relación con el criterio:</p>\n<ul>\n<li>EPV.3.6.3: Se valora cómo el alumnado reinterpreta Las Meninas, entendiendo la obra como base para una creación actual.</li>\n<li>EPV.3.8.3: Al valorar la presentación final, la capacidad de explicar el proceso y mejorar el resultado.</li>\n</ul>\n<p><strong>Aspectos evaluados:</strong></p>\n<ul>\n<li>Creatividad y reinterpretación de la obra</li>\n<li>Uso del lenguaje visual (color, composición, tipografía)</li>\n<li>Uso de GIMP</li>\n<li>Claridad del mensaje</li>\n<li>Presentación del cartel</li>\n</ul>\n<p><strong>¿Cuándo se utiliza?</strong> En la Tarea 4 (creación del cartel) y Tarea 5 (presentación final).</p>\n<p><strong>¿Cómo se obtienen y analizan los datos?</strong> Se establecen niveles de logro que permiten comprobar si el alumnado ha alcanzado los criterios indicados. Sirve para detectar dificultades en la reinterpretación artística o en el uso de herramientas digitales.</p>\n<p><strong>Variables a tener en cuenta: </strong>Diferentes competencia digital, creatividad y ritmo de aprendizaje.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 547px;\"><img src=\"{{context_path}}/content/resources/Rubrica.JPG\" width=\"547\" height=\"700\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">María Herrera García</span>. <span class=\"title\"><em>Rúbrica para la actividad 4, creación del cartel</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnm1mobi-hvop53enb</odePageId>
+  <odeParentPageId>page-mnm1mobh-j4iyqcd7k</odeParentPageId>
+  <pageName>7.2. Lista de cotejo</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7.2. Lista de cotejo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7.2. Lista de cotejo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnm1mobi-hvop53enb</odePageId>
+      <odeBlockId>block-1775409406149-634sr3jkx</odeBlockId>
+      <blockName>Lista de cotejo</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnm1mobi-hvop53enb</odePageId>
+          <odeBlockId>block-1775409406149-634sr3jkx</odeBlockId>
+          <odeIdeviceId>idevice-1775409406148-5iy4t90vt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>¿Qué evalúa? </strong>Este instrumento permite evaluar el proceso de aprendizaje en relación con:</p>
+<ul>
+<li>EPV.3.8.1: En las tareas de análisis (Tarea 1 y 2), observando si el alumnado reconoce la función del arte y participa en la reflexión.</li>
+<li>EPV.3.6.3: En la Tarea 3 (boceto), comprobando si conecta la obra original con su propia creación.<br /></li>
+</ul>
+<p><strong>Aspectos evaluados:</strong></p>
+<ul>
+<li>Participación en el análisis del vídeo y la obra</li>
+<li>Identificación de elementos visuales</li>
+<li>Realización del boceto</li>
+<li>Implicación y autonomía</li>
+</ul>
+<p><strong>¿Cuándo se utiliza?</strong> Durante las Tareas 1, 2 y 3.</p>
+<p><strong>¿Cómo se obtienen y analizan los datos? </strong>Mediante registro de ítems (sí/no), lo que permite detectar rápidamente dificultades y adaptar la enseñanza.</p>
+<p><strong>Variables a tener en cuenta: </strong>Par</p>
+<figure class="exe-figure position-center" style="width: 547px;"><img src="{{context_path}}/content/resources/listacotejo.JPG" width="547" height="453" alt="" />
+<figcaption class="figcaption"><span class="author">María Herrera García</span>. <span class="title"><em>Lista de cotejo para la actividad 1 ( Visionado y análisis del vídeo “Velaske, yo soi guapa?” y de Las Meninas)</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>ticipación desigual, dificultades de comprensión o implicación.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775409406148-5iy4t90vt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¿Qué evalúa? </strong>Este instrumento permite evaluar el proceso de aprendizaje en relación con:</p>\n<ul>\n<li>EPV.3.8.1: En las tareas de análisis (Tarea 1 y 2), observando si el alumnado reconoce la función del arte y participa en la reflexión.</li>\n<li>EPV.3.6.3: En la Tarea 3 (boceto), comprobando si conecta la obra original con su propia creación.<br /></li>\n</ul>\n<p><strong>Aspectos evaluados:</strong></p>\n<ul>\n<li>Participación en el análisis del vídeo y la obra</li>\n<li>Identificación de elementos visuales</li>\n<li>Realización del boceto</li>\n<li>Implicación y autonomía</li>\n</ul>\n<p><strong>¿Cuándo se utiliza?</strong> Durante las Tareas 1, 2 y 3.</p>\n<p><strong>¿Cómo se obtienen y analizan los datos? </strong>Mediante registro de ítems (sí/no), lo que permite detectar rápidamente dificultades y adaptar la enseñanza.</p>\n<p><strong>Variables a tener en cuenta: </strong>Par</p>\n<figure class=\"exe-figure position-center\" style=\"width: 547px;\"><img src=\"{{context_path}}/content/resources/listacotejo.JPG\" width=\"547\" height=\"453\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">María Herrera García</span>. <span class=\"title\"><em>Lista de cotejo para la actividad 1 ( Visionado y análisis del vídeo “Velaske, yo soi guapa?” y de Las Meninas)</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>ticipación desigual, dificultades de comprensión o implicación.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnm1mobi-wf2stm8b7</odePageId>
+  <odeParentPageId>page-mnm1mobh-j4iyqcd7k</odeParentPageId>
+  <pageName>7.3. Autoevaluación (diana de evaluación)</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7.3. Autoevaluación (diana de evaluación)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7.3. Autoevaluación (diana de evaluación)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnm1mobi-wf2stm8b7</odePageId>
+      <odeBlockId>block-1775409569702-n3re2sknr</odeBlockId>
+      <blockName>Diana de evaluación</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnm1mobi-wf2stm8b7</odePageId>
+          <odeBlockId>block-1775409569702-n3re2sknr</odeBlockId>
+          <odeIdeviceId>idevice-1775409569701-pg8262v8t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>¿Qué evalúa?</strong> Permite al alumnado reflexionar sobre su aprendizaje en relación con:</p>
+<ul>
+<li>EPV.3.8.3: Valorando su proceso, errores, mejoras y resultado final.</li>
+</ul>
+<p><strong>Aspectos evaluados:</strong></p>
+<ul>
+<li>Implicación en el proyecto</li>
+<li>Aprendizaje adquirido</li>
+<li>Dificultades encontradas</li>
+<li>Resultado final</li>
+</ul>
+<p><strong>¿Cuándo se utiliza? </strong>En la Tarea 5 (presentación final).</p>
+<p><strong>¿Cómo se obtienen y analizan los datos?</strong> El alumnado marca su nivel en la diana, lo que permite comparar su percepción con la evaluación del docente.</p>
+<p><strong>Variables a tener en cuenta: </strong>Capacidad de reflexión y sinceridad del alumnado.</p>
+<p> </p>
+<figure class="exe-figure position-center" style="width: 1037px;"><img src="{{context_path}}/content/resources/diana.JPG" width="1037" height="566" alt="" />
+<figcaption class="figcaption"><span class="author">María Herrera García</span>. <span class="title"><em>Diana de autoevaluación</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775409569701-pg8262v8t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¿Qué evalúa?</strong> Permite al alumnado reflexionar sobre su aprendizaje en relación con:</p>\n<ul>\n<li>EPV.3.8.3: Valorando su proceso, errores, mejoras y resultado final.</li>\n</ul>\n<p><strong>Aspectos evaluados:</strong></p>\n<ul>\n<li>Implicación en el proyecto</li>\n<li>Aprendizaje adquirido</li>\n<li>Dificultades encontradas</li>\n<li>Resultado final</li>\n</ul>\n<p><strong>¿Cuándo se utiliza? </strong>En la Tarea 5 (presentación final).</p>\n<p><strong>¿Cómo se obtienen y analizan los datos?</strong> El alumnado marca su nivel en la diana, lo que permite comparar su percepción con la evaluación del docente.</p>\n<p><strong>Variables a tener en cuenta: </strong>Capacidad de reflexión y sinceridad del alumnado.</p>\n<p> </p>\n<figure class=\"exe-figure position-center\" style=\"width: 1037px;\"><img src=\"{{context_path}}/content/resources/diana.JPG\" width=\"1037\" height=\"566\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">María Herrera García</span>. <span class=\"title\"><em>Diana de autoevaluación</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnm1mobi-bjad9npsh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8. GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnm1mobi-bjad9npsh</odePageId>
+      <odeBlockId>block-1775409983790-swjxcrphl</odeBlockId>
+      <blockName>Consulta la guía didáctica en el siguiente enlace:</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnm1mobi-bjad9npsh</odePageId>
+          <odeBlockId>block-1775409983790-swjxcrphl</odeBlockId>
+          <odeIdeviceId>idevice-1775409983789-449yu3j8h</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://drive.google.com/file/d/1_dl7csmP60BUpZCWXm-a1xdPgI-Q2rfJ/view?usp=sharing" title="Guía didáctica">https://drive.google.com/file/d/1_dl7csmP60BUpZCWXm-a1xdPgI-Q2rfJ/view?usp=sharing</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775409983789-449yu3j8h","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://drive.google.com/file/d/1_dl7csmP60BUpZCWXm-a1xdPgI-Q2rfJ/view?usp=sharing\" title=\"Guía didáctica\">https://drive.google.com/file/d/1_dl7csmP60BUpZCWXm-a1xdPgI-Q2rfJ/view?usp=sharing</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnm1mobi-2e3ie6bq0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>9. CRÉDITOS</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>9. CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>9. CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnm1mobi-2e3ie6bq0</odePageId>
+      <odeBlockId>block-1775410151766-2f1x7htcl</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnm1mobi-2e3ie6bq0</odePageId>
+          <odeBlockId>block-1775410151766-2f1x7htcl</odeBlockId>
+          <odeIdeviceId>idevice-1775410151765-6r0ed9zn3</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SA. Reinterpretando las Meninas</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">A partir del vídeo 'Velaske, yo soi guapa?', que reinterpreta Las Meninas con un lenguaje actual, se propone un proyecto donde el alumnado analizará cómo el arte puede transformarse en comunicación contemporánea.
+El reto final será diseñar un cartel para el baile de fin de curso inspirado en la obra de Velázquez, aplicando recursos visuales del arte y del diseño gráfico.
+</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">María Herrera García</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
